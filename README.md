@@ -17,16 +17,16 @@
 
 #GET by id
 
-![Books GET by id endpoint](https://asset.cloudinary.com/dx3fnhq8j/f79b2cad126596ad3402be0ec5ed8422)
+![Books GET by id endpoint](https://res.cloudinary.com/dx3fnhq8j/image/upload/v1716316094/topshelfre/books_getByID.png)
 
 #GET all (empty list by default)
 
-![Book GET all books](https://asset.cloudinary.com/dx3fnhq8j/070b6ae9088523f5f3ef1500806c99f8)
+![Book GET all books](https://res.cloudinary.com/dx3fnhq8j/image/upload/v1716316304/topshelfre/books_getAll.png)
 
 #PUT
 
-![Books PUT endpoint](https://asset.cloudinary.com/dx3fnhq8j/dfba78aee3e2301da587b4858ba73b72)
+![Books PUT endpoint](https://res.cloudinary.com/dx3fnhq8j/image/upload/v1716316538/topshelfre/books_put.png)
 
 #DELETE
 
-![Books DELETE endpoint](https://asset.cloudinary.com/dx3fnhq8j/5f1adfe53086e0d67c45590cb9aa9798)
+![Books DELETE endpoint](https://res.cloudinary.com/dx3fnhq8j/image/upload/v1716316538/topshelfre/books_delete.png)
