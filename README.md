@@ -13,7 +13,7 @@
 ## API
 #POST
 
-![Books POST endpoint](https://asset.cloudinary.com/dx3fnhq8j/3475f95442b6e16573a4e8c8f8af9cb8)
+![Books POST endpoint](https://res.cloudinary.com/dx3fnhq8j/image/upload/v1716315762/topshelfre/books_post.png)
 
 #GET by id
 
@@ -28,4 +28,5 @@
 ![Books PUT endpoint](https://asset.cloudinary.com/dx3fnhq8j/dfba78aee3e2301da587b4858ba73b72)
 
 #DELETE
+
 ![Books DELETE endpoint](https://asset.cloudinary.com/dx3fnhq8j/5f1adfe53086e0d67c45590cb9aa9798)
