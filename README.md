@@ -1,4 +1,4 @@
-# topshelfre take home assessment
+# topshelfre take-home assessment
 
 ## Environment
 1. IDE of choice (e.g. VSCode)
@@ -11,17 +11,17 @@
 3. Run `npm test` to run the tests
 
 ## API
-# POST
+### POST
 ![Books POST endpoint](https://res.cloudinary.com/dx3fnhq8j/image/upload/v1716315762/topshelfre/books_post.png)
 
-# GET by id
+### GET by id
 ![Books GET by id endpoint](https://res.cloudinary.com/dx3fnhq8j/image/upload/v1716316094/topshelfre/books_getByID.png)
 
-# GET all (empty list by default)
+### GET all (empty list by default)
 ![Book GET all books](https://res.cloudinary.com/dx3fnhq8j/image/upload/v1716316304/topshelfre/books_getAll.png)
 
-# PUT
+### PUT
 ![Books PUT endpoint](https://res.cloudinary.com/dx3fnhq8j/image/upload/v1716316538/topshelfre/books_put.png)
 
-# DELETE
+### DELETE
 ![Books DELETE endpoint](https://res.cloudinary.com/dx3fnhq8j/image/upload/v1716316538/topshelfre/books_delete.png)
